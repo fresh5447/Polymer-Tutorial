@@ -1,0 +1,37 @@
+{
+  "name": "polymer-tutorial-master",
+  "version": "0.0.0",
+  "authors": [
+    "Doug Walter <doug@kosmojo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "core-ajax": "Polymer/core-ajax",
+    "core-collapse": "Polymer/core-collapse#>=0.3.0  <1.0.0",
+    "core-header-panel": "Polymer/core-header-panel#>=0.3.0  <1.0.0",
+    "core-icon-button": "Polymer/core-icon-button#>=0.3.0 <1.0.0",
+    "core-item": "Polymer/core-item#>=0.3.0  <1.0.0",
+    "core-layout": "Polymer/core-layout",
+    "core-localstorage": "Polymer/core-localstorage",
+    "core-media-query": "Polymer/core-media-query#>=0.4.0 <1.0.0",
+    "core-menu": "Polymer/core-menu",
+    "core-pages": "Polymer/core-pages",
+    "core-overlay": "Polymer/core-overlay",
+    "core-scaffold": "Polymer/core-scaffold",
+    "core-tooltip": "Polymer/core-tooltip",
+    "paper-button": "Polymer/paper-button#>=0.3.0 <1.0.0",
+    "paper-icon-button": "Polymer/paper-icon-button#>=0.3.0 <1.0.0",
+    "paper-tabs": "Polymer/paper-tabs#~0.3.2",
+    "polymer": "Polymer/polymer#~0.4.0",
+    "core-elements": "Polymer/core-elements#~0.4.0",
+    "paper-elements": "Polymer/paper-elements#~0.4.0"
+  }
+}
